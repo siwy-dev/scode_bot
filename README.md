@@ -1,7 +1,7 @@
 ### Preview [See Preview](https://www.youtube.com/watch?v=4vaOVlWrctI)
 
 
-### Link Do Pobrania [scode_bot.zip](https://github.com/user-attachments/files/23940790/scode_bot.zip)
+
 Bot Discord przeznaczony dla serwerów FiveM. Umożliwia sprawdzanie statusu serwera, liczbę graczy oraz posiada podstawowe komendy administracyjne, takie jak whitelist.
 ### Status serwera
 -  Sprawdza, czy serwer FiveM jest online.
@@ -40,7 +40,7 @@ Bot Discord przeznaczony dla serwerów FiveM. Umożliwia sprawdzanie statusu ser
 
 ### -------------------------------------------------------------[EN]-------------------------------------------------------------
 
-### Download Link [scode_bot.zip](https://github.com/user-attachments/files/23940790/scode_bot.zip)
+
 Discord bot designed for FiveM servers. It allows you to check the server status, number of players, and has basic administrative commands such as whitelist.
 ### Server Status
 - Checks if the FiveM server is online.
